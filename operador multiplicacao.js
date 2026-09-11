@@ -1,4 +1,4 @@
-let a = 10;
-let b = 10;
-let c = a * b;
+let a = 50; 
+let b = 2;
+let c = a / b;
 console.log(c);
